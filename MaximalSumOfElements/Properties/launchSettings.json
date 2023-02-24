@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "MaximalSumOfElements": {
+      "commandName": "Project",
+      "commandLineArgs": "MaximalSumOfElements\\Resources\\TestData.txt",
+      "workingDirectory": "C:\\Users\\i.kalchenko\\source\\repos\\maximalsumofelements"
+    }
+  }
+}
